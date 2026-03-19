@@ -1,3 +1,4 @@
+#Mi archivo 
 #!/bin/bash
 usuario=$USER
 fecha=$(date +%Y%m%d)
